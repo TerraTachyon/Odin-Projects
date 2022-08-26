@@ -7,3 +7,4 @@ Several of the directories in this repository are repositories themselves, which
   
 These are:
 - Odin-Recipes (git clone git@github.com:TerraTachyon/Odin-Recipes.git)
+- css-exercises (git clone git@github.com:TerraTachyon/css-exercises.git)
