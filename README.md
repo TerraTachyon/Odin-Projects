@@ -6,4 +6,4 @@ A repo for all of the project and lesson files accumulated throughout The Odin P
 Several of the directories in this repository are repositories themselves, which need to be donwloaded seperately.  
   
 These are:
-- Odin-Recipes (github.com/TerraTachyon/Odin-Recipes)
+- Odin-Recipes (git clone git@github.com:TerraTachyon/Odin-Recipes.git)
